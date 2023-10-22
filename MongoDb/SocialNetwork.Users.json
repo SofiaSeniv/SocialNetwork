@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "652ebca7f737ab6f85189a8d"
+  },
+  "email": "oliviaanderson@example.com",
+  "password": "real_password_8",
+  "FirstName": "Olivia",
+  "LastName": "Anderson",
+  "Interests": [
+    "Gaming",
+    "Technology",
+    "Cooking"
+  ],
+  "friends": [
+    "Jane Smith",
+    "Susan Miller"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ebca7f737ab6f85189a8b"
+  },
+  "email": "susanmiller@example.com",
+  "password": "real_password_6",
+  "FirstName": "Susan",
+  "LastName": "Miller",
+  "Interests": [
+    "Technology",
+    "Movies",
+    "Books"
+  ],
+  "friends": [
+    "Mark Wilson",
+    "David Brown",
+    "William Davis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ebca7f737ab6f85189a86"
+  },
+  "email": "johndoe@example.com",
+  "password": "real_password_1",
+  "FirstName": "John",
+  "LastName": "Doe",
+  "Interests": [
+    "Travel",
+    "Photography",
+    "Reading"
+  ],
+  "friends": [
+    "Jane Smith",
+    "Mark Wilson",
+    "David Brown",
+    "William Davis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ebca7f737ab6f85189a8f"
+  },
+  "email": "maryjohnson@example.com",
+  "password": "real_password_10",
+  "FirstName": "Mary",
+  "LastName": "Johnson",
+  "Interests": [
+    "Food & Drink",
+    "Photography",
+    "Reading"
+  ],
+  "friends": [
+    "James Wilson"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ebca7f737ab6f85189a8c"
+  },
+  "email": "williamdavis@example.com",
+  "password": "real_password_7",
+  "FirstName": "William",
+  "LastName": "Davis",
+  "Interests": [
+    "Entertainment",
+    "Art",
+    "Gaming"
+  ],
+  "friends": [
+    "John Doe",
+    "David Brown",
+    "Susan Miller"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ebca7f737ab6f85189a87"
+  },
+  "email": "janesmith@example.com",
+  "password": "real_password_2",
+  "FirstName": "Jane",
+  "LastName": "Smith",
+  "Interests": [
+    "Cooking",
+    "Hiking",
+    "Movies"
+  ],
+  "friends": [
+    "John Doe",
+    "Emily Jones",
+    "David Brown"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ebca7f737ab6f85189a89"
+  },
+  "email": "emilyjones@example.com",
+  "password": "real_password_4",
+  "FirstName": "Emily",
+  "LastName": "Jones",
+  "Interests": [
+    "Art",
+    "Gardening",
+    "Coffee"
+  ],
+  "friends": [
+    "Jane Smith",
+    "Mark Wilson",
+    "David Brown"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ebca7f737ab6f85189a8e"
+  },
+  "email": "jameswilson@example.com",
+  "password": "real_password_9",
+  "FirstName": "James",
+  "LastName": "Wilson",
+  "Interests": [
+    "Home & Garden",
+    "Nature",
+    "Movies"
+  ],
+  "friends": [
+    "Mary Johnson"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ebca7f737ab6f85189a8a"
+  },
+  "email": "davidbrown@example.com",
+  "password": "real_password_5",
+  "FirstName": "David",
+  "LastName": "Brown",
+  "Interests": [
+    "Travel",
+    "Gaming",
+    "Photography"
+  ],
+  "friends": [
+    "John Doe",
+    "Jane Smith",
+    "William Davis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ebca7f737ab6f85189a88"
+  },
+  "email": "markwilson@example.com",
+  "password": "real_password_3",
+  "FirstName": "Mark",
+  "LastName": "Wilson",
+  "Interests": [
+    "Nature",
+    "Technology",
+    "Books"
+  ],
+  "friends": [
+    "John Doe",
+    "Emily Jones",
+    "Susan Miller"
+  ]
+}]
